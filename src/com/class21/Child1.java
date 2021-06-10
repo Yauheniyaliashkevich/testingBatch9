@@ -13,5 +13,8 @@ public class Child1 extends Parent1 {
     }
     int add(){
         return num1+num2-10;
+
+
+        
     }
 }
